@@ -12,4 +12,8 @@ class Dog
     @breed = type
   end
   
+  def breed
+    @breed
+  end
+  
 end
